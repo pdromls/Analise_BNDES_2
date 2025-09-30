@@ -1,0 +1,35 @@
+# Ambientes virtuais
+/venv
+/.venv
+/env
+/.env
+/activate
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDEs
+.idea/
+.vscode/
+
+# Arquivos de dados brutos ou muito grandes
+# (Boa prática para evitar sobrecarregar o repositório.
+#  Prefira apontar para a fonte original dos dados no README.)
+/data/raw/*.csv
+/data/processed/*.parquet
+# Se seus arquivos de dados forem pequenos, você pode remover as duas linhas acima.
+
+# Arquivos de credenciais ou segredos
+*.env
+credentials.json
