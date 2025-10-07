@@ -19,8 +19,9 @@ O projeto está organizado da seguinte forma:
 │   └── processed/
 │       └── op-exp-pre-embarque.parquet # Dados limpos e tratados
 ├── notebooks/
-│   └── 01_BNDES_EDA.ipynb  # Observando e Tratando a base
+│   └── 01_BNDES_DA.ipynb  # Observando e Tratando a base
 │   └── 02_BNDES_EDA.ipynb  # Explorando e Conhecendo a base
+│   └── 03_BNDES_RELATORIO.ipynb  # Relátorio de Insights
 ├── .gitignore
 ├── README.md
 └── requirements.txt
@@ -69,4 +70,6 @@ Para executar a análise, siga os passos abaixo:
 
 ## Etapas da Análise
 
+Análise dos Dados ✅
 Análise Exploratória de Dados (EDA) ✅
+Elaboração de Insights ✅
