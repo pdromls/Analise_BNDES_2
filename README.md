@@ -71,5 +71,7 @@ Para executar a análise, siga os passos abaixo:
 ## Etapas da Análise
 
 Análise dos Dados ✅
+
 Análise Exploratória de Dados (EDA) ✅
+
 Elaboração de Insights ✅
