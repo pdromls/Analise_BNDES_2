@@ -17,7 +17,7 @@ O projeto está organizado da seguinte forma:
 │   │   └── operacoes-exportacao-operacoes-de-exportacao-pre-embarque.csv   # Dados brutos baixados do portal
 │   │   └── dicionario-de-dados-operacoes-de-exportacao-pre-embarque.pdf
 │   └── processed/
-│       └── op-exp-pre-embarque.parquet # Dados limpos e tratados
+│       └── op-exp-pre-embarque.pickle # Dados limpos e tratados
 ├── notebooks/
 │   └── 01_BNDES_DA.ipynb  # Observando e Tratando a base
 │   └── 02_BNDES_EDA.ipynb  # Explorando e Conhecendo a base
